@@ -19,8 +19,8 @@ export default function MainCard({ title, backgroundColor, icon, temperature }){
           justifyContent: 'center',
           alignItems: 'center',          
           margin:10,
-          width: 110,
-          height:210,
+          width: 102,
+          height:190,
           borderRadius: 20,
         },        
         refreshButton:{
